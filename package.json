@@ -1,0 +1,38 @@
+{
+  "name": "delta-sphere-optimizer",
+  "version": "1.0.0",
+  "description": "Optimizes spheres in the delta domain, enhancing geometric calculations and spatial modeling in virtual environments.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/delta-sphere-optimizer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "epsilon-river-navigator": "1.0.0",
+    "zeta-stone-curator": "1.0.0",
+    "truffle": "1.0.0",
+    "firebase": "1.0.0",
+    "pg": "1.0.0",
+    "jquery": "1.0.0",
+    "bcrypt": "1.0.0",
+    "react-redux": "1.0.0",
+    "sequelize": "1.0.0",
+    "fs-extra": "1.0.0",
+    "solc": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "supertest": "1.0.0",
+    "web3": "1.0.0",
+    "dotenv": "1.0.0",
+    "chalk": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "nodemon": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
